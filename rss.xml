@@ -4,7 +4,7 @@
         <description><![CDATA[Laura Sharpham]]></description>
         <link>https://thegrid.ai//laurasharpham/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 01:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 01:22:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai//laurasharpham/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai//laurasharpham/welcome/index.html</link>
             <guid isPermaLink="false">f3d67afd-d7fe-42e8-b9bd-55ee6405bf4c</guid>
             <pubDate>Tue, 26 Apr 2016 01:21:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Work with me]]></title>
+            <description><![CDATA[<article><h1>Work with me</h1><p>Whether you’d like to work with me, or you’re just looking to connect, I’d love to hear from you. If you’re not into filling out forms, don’t hesitate to find me online via the links above. Don’t be shy!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/941d56aa-542f-470e-9afb-44a933563e74.png"></article>]]></description>
+            <link>https://thegrid.ai//laurasharpham/work-with-me/index.html</link>
+            <guid isPermaLink="false">ebd887f8-51ff-4718-96c2-7d81532ece64</guid>
+            <pubDate>Tue, 26 Apr 2016 01:21:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
