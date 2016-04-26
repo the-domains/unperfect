@@ -1,0 +1,28 @@
+name: UnPerfect
+favicon: null
+layout_spectrum: 0.5381669499911368
+typography_spectrum: 0.2953402295242995
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.01760370726697147
+  lightness: 0.2899774417746812
+  saturation: 0.03356421925127506
+  rhythmicContrast: 0.059796647634357214
+purpose: []
